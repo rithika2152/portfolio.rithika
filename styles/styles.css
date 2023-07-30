@@ -309,24 +309,27 @@
     width: 60%;
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-    width: 80%;
+    width: 90%;
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-    width: 95%;
+    width: 80%;
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-    width: 75%;
+    width: 65%;
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-    width: 60%;
-  }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-    width: 87%;
-  }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-    width: 70%;
+    width: 10%;
   }
   
+  .about-stats .progress-bars .progress-bar .progress-con .progress .python {
+    width: 60%;
+  }
+   .about-stats .progress-bars .progress-bar .progress-con .progress .C {
+    width: 90%;
+  }
+ .about-stats .progress-bars .progress-bar .progress-con .progress .c++ {
+    width: 90%;
+  }
   .stat-title {
     text-transform: uppercase;
     font-size: 1.4rem;
